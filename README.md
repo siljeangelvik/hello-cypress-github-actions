@@ -1,4 +1,4 @@
 # hello-cypress-github-actions
 
 on `pull_request`:  
-![Cypress](https://github.com/siljeangelvik/hello-jest-github-actions/actions/workflows/cypress.yml/badge.svg)
+![Cypress](https://github.com/siljeangelvik/hello-cypress-github-actions/actions/workflows/github-actions-init.yml/badge.svg)
